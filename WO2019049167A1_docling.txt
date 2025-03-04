@@ -1,0 +1,653 @@
+<!-- image -->
+
+## (12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT)
+
+(19) World Intellectual Property Organization
+
+<!-- image -->
+
+International Bureau
+
+(43) International Publication Date 14 March 2019 (14.03.2019)
+
+- (51)   International Patent Classification: CO7D 213/53 (2006.01)
+- (21)   International Application Number:
+
+PCTIIN2018/050560
+
+- (22)   International Filing Date:
+
+30 August 2018 (30.08.2018)
+
+- (25) Language: Filing
+- (26)  Publication Language:
+
+English
+
+English
+
+- (30)  Priority Data:
+
+201721032019
+
+11 September 2017 (11.09.2017) IN
+
+- (71) Applicant: HIKAL LIMITED [INIIN]: 3A International Biotech Park, Hinjewadi, Maharashtra; Pune 411057 (IN).
+- (72)   Inventors: LODHA, Kamlesh Kantilal; 3A,International Biotech Park Hinjewadi, Maharashtra, Pune 411 057 (IN). UDAWANT, Sandip   Popatrao; 3A,International Biotech Park, Hinjewadi, Maharashtra Pune 411057 (IN). PHASAGE, Deepak Babasaheb; 3A International Biotech Park, Hinjewadi, Maharashtra; Pune 411057 (IN). RAO, Lakonda Nagaprasada; 3A [nternational Biotech Park, Hinjewadi, Maharashtra, Punc 411057 (IN). GHOSH, Santosh Kumar; 3A, wadi, Maharashtra; Pune 411057 (IN). NAMBIAR, Sudhir; 3A Intemnational Biotech Park, Hinjewadi, Maharash -
+- Agent: HARIHARAN, Rajeshwari; Rajeshwari &amp;amp; tor 43, Gurgaon; AssoHary
+- (81)   Designated States   (unless otherwise indicated  for every kind of national protection available) AE; AG, AO; AT, AU, AZ; BA BG, BH, BN, BR; BWBYBZ, OM, PA BB. PE;
+
+(54) Title: AN IMPROVED PROCESS FOR THE PREPARATION OF TRIFLOXYSTROBIN"
+
+<!-- image -->
+
+(57) Abstract: The present invention relates to an improved process for the prepara tion of trifloxystrobin of formula (I), which is simple; economical, efficient; user and environment friendly , moreover commercially viable with higheryield and chemical purity .
+
+(10) International Publication Number
+
+<!-- image -->
+
+## WIPO| PCT
+
+## WO 2019/049167 Al
+
+European (AL GB, GR; HR HU, IE, IS, IT, LT, LU, LV MC, MK, MT, NL, NO, PL; PT, RO, RS, SE, SI, SK, SM, TR), OAPI (BF, BJ, CF, CG, CI, CM, GA GN, GQ, GW, TM),
+
+## Declarations under Rule 4.17:
+
+of inventorship (Rule 4.17(iv))
+
+## Published:
+
+- with international search report (Art. 21(3))
+
+## sAN IMPROVED PROCESS FOR THE PREPARATION OF
+
+## FIELD OF THE INVENTION
+
+The   present   invention  relates to an improved process   for   the   preparation   of trifloxystrobin of formula (I) in an environment friendly and commercially viable manner with high yield and high chemical purity.
+
+<!-- image -->
+
+## BACKGROUND OF THE INVENTION
+
+Trifloxystrobin is a member of strobilurin class of fungicides. Trifloxystrobin is chemically   known as [(E)-methoxyimino]-{2-[1-(3-trifluoromethyl-phenyl)-eth(E)-ylideneaminooxymethyl]-phenyl }-acetic  acid methyl  ester as represented as formula (I). It is known to possess wide range of fungicidal action with preventive and curative properties. Taking into an account wide range of activity and commercial interest many synthetic   routes   leading to   trifloxystrobin and intermediates are reported in the literature . are summarized in the following discussion. good They
+
+The U.S. Patent No.5,238,956 discloses the use of (2-bromomethyl-phenyl)-[(E)methoxyimino]-acetic acid methyl ester (intermediate 7) as intermediate in target molecule synthesis, without its method of preparation. This also discloses conversion of (E,E)-methyl 3-methoxy-2-[2-(methyl(3 trifluoromethylphenyl)oximinomethyl)   phenyl]-propenoate to   trifloxystrobin in two steps. Origin of the starting material of this reaction is not mentioned. patent
+
+The U.S. Patent No. 6,444,850 discloses the novel fungicidal compounds having a fluorovinyloxyphenyl   moiety   and its   process of   preparation. The document
+
+2
+
+discloses preparation of (2-bromomethyl-phenyl)-[(E)-methoxyimino]-acetic acid methyl  ester  (intermediate  7). In intermediate (7) via Grignard reaction; oxime formation; followed by bromination reaction. This intermediate (7) is then converted to trifloxystrobin (Scheme -1) Scheme -1
+
+<!-- image -->
+
+<!-- image -->
+
+## Fungicidal compounds with Flurovinyl oxy phenyl moiety
+
+<!-- image -->
+
+The drawbacks of the process are as the raw material  2-bromo toluene is relatively   expensive; Grignard reaction needs   rigorous conditions to be maintained, further (E)-2-methoxyimino-2-(o-tolyl)acetic acid methyl ester (intermediate 6) is converted to bromo derivative (E)-2-(2-bromomethylphenyl) 2-methoxy iminoacetic acid methyl ester (intermediate7) using reagent N-bromo succinamide (NBS) which is an expensive reagent as compared to other alternatives to bromination reaction. key dry
+
+The U.S. Patent No. 6,670,496 describes the preparation of [(E)-hydroxyimino]-0tolyl-acetic acid methyl ester (5A), but further utilization of this intermediate is not clearly mentioned in this patent.
+
+3
+
+[(E)-hydroxyimino]-o-tolyl-acetic acid methyl ester (5A)
+
+<!-- image -->
+
+The PCT Publication No. WO2013/144924 Al describes the   preparation of trifloxystrobin in (Scheme-2) starting  from 2-methyl benzoic acid in multiple steps in which this acid is converted to acid chloride intermediate (B) which is then treated   with sodium cyanide (NaCN) to produce keto nitrile intermediate. This keto nitrile is then treated with hydrochloric acid in methanol to form desired intermediate (C). However; in this step about 25% yield is lost due to the formation of undesired intermediate (D). Moreover, the serious risk is associated with use of NaCN, which may react with hydrochloric acid, or any other acidic residual in the   system lead to produce toxic   hydrogen   cyanide   (HCN). The presence of HCN needs to be monitored in step-2 and step-3 to avoid the escape of the same to the surrounding environment. dry
+
+## Scheme -2
+
+<!-- image -->
+
+intermediate (D), which cannot be   separated by   physical methods, hence intermediate (C) needs to be essentially and selectively hydrolyzed to give Keto acid which Therefore; these additional operations put more burden on this route of synthesis by two extra synthetic   steps. The Keto acid thus obtained was   treated with methoxyl amine hydrochloride to   provide intermediate   (5) as EIZ isomeric mixture of about 1:1 ratio. This intermediate (5), then treated with thionyl chloride (SOClz) and methanol to give ester intermediate (6) in 409 overall over 5 steps. Further; bromination of intermediate (6) is resulted to intermediate (7) in Then the intermediate (7) is coupled with intermediate   (8) using methyl isobutyl ketone (MIBK) as solvent and potassium carbonate (KzCOs)as a base at 110 C to 120 C to yield trifloxystrobin in 65% isolated yield, which is not satisfactory for commercial   operations . Overall of this route is only 199 which is not very significant. In this process for preparation of trifloxystrobin; various steps are involved, so overall cycle time for this route is longer and larger amount of effluent is generated by this process; which makes the process more cumbersome. again yield yield
+
+The PCT Publication No. WO2017/085747A2 discloses à process for the preparation of   trifloxystrobin: The 2-methyl   benzaldehyde is converted to cyanohydrins intermediate, which is further hydrolyzed to  amide intermediate, which is further esterified to give ester intermediate, which further converted in to keto ester   intermediate. The same is converted into intermediate (5) and then esterified to give intermediate (6), which was brominated to give intermediate (7) This patent   application also describes the coupling reaction of (E)-2-(2bromomethylphenyl)-2-methoxyiminoacetic acid methyl ester (intermediate 7) with   1-(3-trifluoromethyl-phenyl)-ethanone   oxime to   produce trifloxystrobin (as depicted in Scheme-3). The starting  material used   2-methyl benzaldehyde is an expensive raw material.
+
+<!-- image -->
+
+Trifloxystrobin
+
+The afore-mentioned art processes for preparing trifloxystrobin; which has certain drawbacks, such as some of the processes contain synthetic routes , multiple   steps with the use of   toxic reagents such as   sodium cyanide economically  less viable. Some of the art   process   requires rigorous conditions   such reported synthetic routes are utilizing more expensive   starting  materials. Moreover, due to synthetic routes, there is   generation of   huge   effluent; which consequently increasing   the of   trifloxystrobin. Based on the   afore mentioned drawbacks, the art processes may be unsuitable for the preparation of trifloxystrobin in commercial scale operations . prior long along prior dry prior long prior
+
+To address the develop industrially and economically viable process for trifloxystrobin, the present inventors motivated to pursue the instant   invention and   surprisingly   found preparation of selectively [(E)-methoxyimino]-o-tolyl-acetic acid (compound 5) in one step and which further converted to trifloxystrobin in a simple manner . prior
+
+The current invention relates to the selective synthesis of [(E)-methoxyimino]-0tolyl-acetic acid (compound 5) and further conversion to the same in to trifloxystrobin (I), which four   simple steps. 0 Toluidine   (compound 1) is   treated with sodium nitrite to   produce   2-methyl benzene diazonium chloride (compound 2), which is further treated with glyoxylic acid (E) methoxime  (compound 4) in  presence of copper  sulphate Or copper sulphate hydrate to form (E)-2-methoxyimino-2-(o-tolyl)acetic acid (compound 5) in better yields and purity. This compound (5), which is selectively E-isomer is then converted in 3 simple steps to trifloxystrobin in very yields and high purity (above 989) The starting  material  in this invention is o-toluidine which is   inexpensive and can be sourced easily at commercial level. After diazotization of o-toluidine, it is then treated with coupling partner glyoxylic acid methoxime (compound 4, prepared from the compound 3), which is stable and can be isolated as solid product if required. In present invention the compound (5 , is made in single isomeric form i.e. (E) the required isomer, which was esterified to (E)-2-methoxyimino-2-(o-tolyl)acetic acid methyl  ester (compound 6) methanol and sulfuric acid or methanol and thionyl chloride in 609 overall yield over 2 steps. The compound (6) was brominated in presence of metal halogenates to produce compound Furthermore, coupling of (E)-2-(2bromomethylphenyl)-2-methoxy iminoacetic acid methyl ester (compound 7) with trifloxystrobin in 909 isolated yield.   Alternatively, the crude compound (5, can be converted to compound (6) and further to compound (7) without isolation of compound (6) by applying acid-base treatment to the compound (5). This   will reduce the reaction time; utility cost on commercial scale. The synthetic steps in current invention are straightforward and does not require any special equipment. Overall   handling and product   yield are and can be reproduced at   large commercial scale. The overall yield achieved for the preparation of trifloxystrobin is 40.29 as compared with reported overall yield ie. 199. good key using good
+
+## OBJECTIVES OF THE INVENTION
+
+The main object of the present invention is to provide an improved process for the preparation of a compound of formula (I) which is simple, economical, user friendly and commercially viable.
+
+Another objective of the present invention is to provide an improved process for the preparation of a compound of formula (I), which would be easy to implement on commercial scale and to avoid excessive use of   reagent(s) and   organic solvent(s) , which makes the present invention eco-friendly as well.
+
+Yet another objective of the present invention is to provide an improved process for   the   preparation   of a compound of formula (I) in a high   yield with high chemical purity.
+
+Yet another objective of the present invention is to provide an improved process for preparation of single isomeric form of (E)-2-methoxyimino-2-(0-tolyl)acetic acid (compound5).
+
+Still another objective of the present invention is that compound of formula can be prepared   with Or without isolation of compound (5), compound(6) and compound(7).
+
+## SUMMARY OF THE INVENTION
+
+Accordingly, the present invention   provides an improved process for the preparation of trifloxystrobin formula (I), which comprises the steps of:
+
+<!-- image -->
+
+- obtaining a compound of formula (2) by reacting a compound of formula (1) with alkali metal nitrite in presence of acid;
+- b) obtaining compound of formula (4) by reacting a compound of formula (3) with methoxylamine   hydrochloride in   presence of base in suitable solvent or mixture of solvents thereof;
+- obtaining compound of formula (5) by reacting a compound of formula (2 with a compound of formula (4) in presence of salt of acid or a base and a metal sulphate in a suitable solvent or mixture of solvents thereof;
+- obtaining à compound of formula (6) by reacting a compound of formula (5) with an acid and methanol with or without a suitable solvent or mixture of solvents thereof;
+- obtaining a compound of formula (7) by reacting a compound of formula (6) with metal halogenate in presence of a base with Or without catalyst in a suitable solvent or mixture of solvents thereof; and
+- obtaining compound of formula (I) by reacting a compound of formula with a compound of formula (8) in presence of a base with or without phase transfer catalyst in a suitable solvent or mixture of solvents thereof.
+
+The above process is illustrated in the following general synthetic scheme:
+
+<!-- image -->
+
+X = Br, CI, /
+
+## DETAILED DESCRIPTION OF THE INVENTION
+
+The present invention now will be described more fully hereinafter. The invention may be embodied in many different forms and should not be construed as limited to the embodiments set forth herein; rather, these embodiments are provided so that   this   disclosure will   satisfy  applicable legal   requirements. As used in the specification; and in the appended claims; the   singular forms "a ~an' ~the" include plural referents unless the context clearly indicates otherwise.
+
+In accordance with an improved process for the preparation of trifloxystrobin of formula 1) and single isomeric form of (E)-2-methoxyimino-2-(o-tolyl)acetic acid (compound 5).
+
+In an embodiment of the present invention, wherein the said alkali metal nitrite used in step (a) is preferably selected from the group consisting of sodium nitrite (NaNO2), potassium nitrite (KNO2) and the like; most preferably sodium nitrite.
+
+preferably selected from the group consisting of hydrochloric acid (HCI), sulfuric acid (H2SO4) and the like; most preferably hydrochloric acid.
+
+In another embodiment of present invention; wherein the compound of step (a) having a formula (2) is prepared in in-situ manner.
+
+In another embodiment of the present invention, wherein the said base of step (b) preferably selected from the group consisting of sodium hydroxide (NaOH), potassium hydroxide (KOH), potassium carbonate potassium bicarbonate (KHCO3), sodium carbonate (NazCO3), sodium bicarbonate (NaHCO;) and the like; most preferably sodium hydroxide or sodium carbonate.
+
+In another embodiment of the present invention; wherein the said solvent used in step (b) is preferably selected from the group consisting of water; methyl alcohol, ethyl alcohol, isopropyl alcohol, butanol, isobutanol, ethylene glycol and the like Or mixture of solvents thereof; most preferably water.
+
+In another embodiment of the present invention, wherein the said salt of acid of step (c) is preferably selected from the group consisting of mono Or di sodium, mono Or di potassium salt of carboxylic acids such as acetic acid and the like; most preferably mono or di sodium salt of carboxylic acids.
+
+In another embodiment of the present invention, wherein the said base of step is preferably selected from the group consisting of sodium hydroxide; potassium hydroxide; potassium carbonate, potassium bicarbonate, sodium carbonate, sodium bicarbonate and the like; most preferably sodium bicarbonate .
+
+In another embodiment of the present invention, wherein the said metal sulfate of step (c) is copper sulfate and the like.
+
+In another embodiment of the present invention, wherein the said solvent of step is preferably selected from the group consisting of heptane, monochlorobenzene (MCB), isoparaffinic hydrocarbon (Isopar-G) and the like or mixture thereof; most preferably heptane or isoparaffinic hydrocarbon.
+
+In another embodiment of the present invention; wherein the said acid of step (d) is either organic or inorganic acid. The said acid is more preferably selected from sulfuric  acid, hydrochloric acid, thionyl chloride and the like; most preferably sulfuric acid or thionyl chloride.
+
+In another embodiment of the present invention, wherein the said solvent of step (d) is   preferably   selected from the group  consisting of   monochlorobenzene, ethylene dichloride; dichlorobenzene and the like or mixture of solvents thereof .
+
+In another embodiment of the   present invention, wherein the said metal consisting of sodium bromate   (NaBrO;), sodium chlorate (NaClO;) , sodium iodate (NaIO3), potassium bromate (KBrO;) ,   potassium chlorate potassium iodate N-bromosuccinimide (NBS) and the like; most preferably sodium bromate. (KIO;)
+
+In another embodiment of the present invention; wherein the said substituent X is selected from the group consisting of chlorine; bromine; iodine.
+
+In another embodiment of the present invention, wherein the said catalyst of step (e is optionally used, which is preferably selected from the group consisting of sodium bromide (NaBr),   potassium bromide (KBr) , sodium iodide (Nal),
+
+potassium iodide  (KI), azobisisobutyronitrile (AIBN) and the like Or mixture thereof; most preferably azobisisobutyronitrile.
+
+In another embodiment of the present invention; wherein the said base of step (e) potassium like; most preferably sodium bisulfite.
+
+In another embodiment of the present invention; wherein the said solvent of step (e in combination with water is preferably selected from the group consisting of ethylene dichloride, dichloromethane, chloroform; monochlorobenzene, acetonitrile; diisopropyl ether, ethyl acetate and the like or mixture of solvents thereof; most preferably ethylene dichloride.
+
+In another embodiment of the present invention; wherein the said base of step is preferably selected from the group consisting of sodium hydroxide; potassium hydroxide, potassium carbonate; sodium carbonate and the like; most preferably potassium carbonate.
+
+In another embodiment of the present invention, wherein the said phase transfer catalyst of step is preferably selected from the group consisting of tetra-n butylammonium bromide (TBAB), tetrabutylammonium iodide (TBAI), tetrabutylammonium chloride (TBACI), sodium iodide, potassium iodide and the like; most preferably tetra-n-butylammonium bromide.
+
+In another embodiment of the present invention, wherein the said solvent of is   preferably selected from the group consisting of acetone, methyl   ethyl ketone, methyl isobutyl ketone, xylene, toluene, monochlorobenzene, propionitrile; acetonitrile and the like Or mixture of solvents thereof; most preferably acetone. step
+
+In another embodiment of the present invention, wherein the crude compound of formula (I) is purified by crystallization in suitable alcoholic solvent  which is preferably selected from the group consisting of water, methyl   alcohol, ethyl alcohol,   isopropyl alcohol and the like Or mixture thereof; most   preferably isopropyl alcohol.
+
+In another embodiment of the present invention, wherein any one of the steps or all the said steps from (a) to (f) may be performed in in-situ manner:
+
+In another embodiment of the present invention, wherein all the crude compound used as such Or purified   by distillation Or crystallization Or is   preferably by different purification techniques well understood by those skilled in the art. are well known in art. prior
+
+The invention is further illustrated by the following examples, which should not be construed to limit the scope of the invention in anyway.
+
+## EXAMPLES
+
+## Example 1: Preparation of E)-2-methoxyimino-2-(o-tolyl)acetic\_ acid in one step:
+
+## Pot-A
+
+The four neck R. water condenser was arranged. The water (3.0 vol. Wrt. o-toluidine) followed by concentrate   hydrochloric acid (3.0 vol. o-toluidine) was charged under was added wise over 30 min to reaction mass under stirring at 0 C to 5 C to form of NaNO2 (1.0 eq.) in water (1.0 vol. WIt. o-toluidine) was added to reaction mixture   lot wise over 30 min at -15 C to 0 C. After  complete   addition; the solution was used for the next operation: drop
+
+## Pot-B
+
+To the four necks R. B. flask   equipped with mechanical stirrer; thermopocket, water condenser and addition funnel the glyoxylic acid (1.5 eq:) methoxyl amine hydrochloride (1.5 eq.) followed by water (4.0 vol. was charged under stirring to form clear solution and reaction mixture further stirred at 25 C to 30 C for 1.0 h. The solution of the sodium carbonate (2.0 eq) in water (6.0 vol, Wr.t. o-toluidine) was added lot-wise to reaction mass under stirring. The solution of copper sulphate pentahydrate in water was added to reaction mixture   under stirring and further heptane Or isoparaffinic hydrocarbon (3.2vol. Wrt. toluidine) was slowly added to Pot-B over of 2.0 h maintaining reaction temperature 15 C The was maintained between 6.5 to 5.0 by addition of  aqueous   NazCO; solution. The reaction mixture WItt. o-toluidine) was charged and stirred for 15 min. The aqueous and organic layer was separated, extracted the aqueous with MDC and combined organic layer was evaporated under vacuum to obtained brown mass (Yield-77% on purity period pH layer
+
+129.4,63.9, 19.4.MS (nz) (M-1)*=192.
+
+## Example 2 Preparation of E)-2-methoxyimino-2-(o-tolyllacetic acid (compound 5 in one step
+
+## Pot-A
+
+To the four neck R. B. flask equipped with mechanical stirrer, thermopocket and water condenser water (3.0 vol. WIt. o-toluidine) concentrated hydrochloric acid (3.0 vol. w.r.t. o-toluidine) was charged under stirring, then solution was cooled to C.o-Toluidine (1.0 eq-) was   added wise over 30 min. to reaction mass under stirring at 0PC to form off white slurry and further stirred for 30 min: The solution of NaNOz (1.0 eq.) in water (1.0 vol. Wrt. o-toluidine) was added drop
+
+dropwise to reaction mixture over 30 min at -5 C to O C after complete addition, the solution was as such for next operation. and used
+
+## Pot-B
+
+To the four neck R. B. flask   equipped with mechanical   stirrer, thermopocket, water  condenser   and addition  funnel glyoxylic acid (1.5 eq:), methoxyl   amine hydrochloride (1.5 eq.) and water (4.0 vol. o-toluidine) was charged under was added wise to reaction mass under reaction mixture was warmed to room temperature and stirred for the 1.0 h. The solid sodium acetate trihydrate (6.0 eq.) was added lot-wise to reaction mixture maintained the pH of the between pH 5 The copper sulphate pentahydrate solution in water (1.0 vol. WIt. o-toluidine) was added to reaction mixture under stirring followed by heptane (5 vol. reaction mixture from Pot-A was slowly added to Pot-B over of 2.0 h maintaining reaction temperature at 25 C to 30PC and pH between 6.5 to 5.0 by addition of sodium acetate. After complete   addition the reaction   mixture was allowed to stir at 25 C to 30PC for 2 h. The RM was filtered through buchner funnel, the filtrate allowed to settle and heptane layer was separated . The aqueous brown mass of Compound 5(Yield-68% on purity basis, HPLC purity 919) . drop period
+
+## Example 3: Preparation\_of (E)-2-methoxvimino-2-(o-tolylacetic acid methyl ester (Compound 6
+
+To the neck R.B. Flask with mechanical stirrer, air condenser, thermopocket; water bath of compound 5 (1.0 eq.) in MeOH (3 5 vol. WItt. compound5) was charged The concentrated H2SO4 (0.8 eq.) drop wise to reaction mixture at 25 C to 309C over 15 min and heated to reflux temperature for 12 h. The reaction mixture was cooled to 509C to 559C and water (3.0 vol. WItt. compounds) was added lot wise within 1 h. After complete four
+
+addition of water, the reaxtion mixture was stirred for 3 h at 20'C to 25 Cand filtered on water   and dried the crude product. The crude product was dissolved in isopropyl alcohol (1.43 vol. intermediate 5) and the mixture was heated to 60'C. The solution was cooled the to room temperature, stirred for 1 h and further cooled to -5 C to 0'C. The solid obtained was filtered on buckner funnel and dried to obtained compound 6 (Yield 809 on purity basis , HPLC   purity 979.) The characterization details of compound (6) is as follows:
+
+13 C NMR (CDCl3, CHCl3) 6 (ppm): 163.5, 150.0, 135.9, 130.2, 129.9, 129.3, 127.8, 125.4, 63.7,52.9, 19.4.MS (m/z) (M+l)t = 208.
+
+The same reaction was also performed methanol and thionyl chloride. The isolated yield of compound (6) was 759 on purity basis; HPLC purity 989. Similarly,  compound (5) is first   converted to acid chloride intermediate then treated with methanol to yield compound (6) in 86% yield, HPLC purity 94% . using
+
+## Example 4: Preparation of iminoacetic acid methyl ester (compound 72
+
+To the four neck Flask with mechanical stirrer, water condenser , thermopocket and oil bath EDC (5.0 vol. Wt. compound6) and compound (6) The water (3.0 vol. WIt. compound6) was charged into reaction mixture and to the reaction mixture under stirring to obtain a clear biphasic solution and further cooled to 5 C to 10 C. The solution of sodium bisulphite (2.0 eq.) in water (2.0 vol. Wrtt. compound 6) was added to reaction mass slowly drop-wise using addition funnel, maintaining reaction temperature 1 h. After complete addition, the reaction mixture was allowed to warm to 20'C to 25 C and further heated to 709C to 75 C. The reaction mass was cooled to 20 C to 25 C, separated the   organic   layers and solvent was removed under vacuum to give crude compound (7). The crude ~compound was recrystallized IPA (Yield-779 on using
+
+purity basis; HPLC purity 979) . The characterization details of compound (7) is as follows:
+
+'H NMR (CDCl3, TMS) 6 (ppm): 7.49-7.34 (m, 3H), 7.15-7.13 (m, IH), 4.32 (s, = 286.
+
+The same reaction was also performed in presence of catalyst azobisisobutyronitrile  which completed in one hour (Yield-7O% on purity basis, HPLC purity 979 ).
+
+## Example 5: Preparation of trifloxystrobin formula (
+
+To the four neck RB. Flask with mechanical stirrer; water condenser , thermopocket and nitrogen inlet the compound 7 (1.0 eq.), compound 8 (1.05 eq.), acetone (3.0 vol. WItt. were charged under stirring at 25 C to 30C. The reaction mixture was stirred at 25 C to 30'C for 24 h and  filtered   through celite bed, washed the celite bed with acetone (3.0 vol. Wrt. compound 7). The combined organic layer was distilled compound was recrystallized using IPA (Yield-88 % on purity basis, HPLC purity 999). The characterization details of compound (I) is as follows:
+
+'H NMR (CDCl3, TMS) 6 (ppm): 7.86 (bs, IH), 7.79-7.77 (m, IH), 7.59-7.57 (m, IH) , 7.50-7.36 (m, 4H), 7.20-7.18 (m, IH), 5.14 (s, 2H), 4.02 (s, 3H), 3.81 (s, 13 3H), 2.21 (s, 3 H). 135.8, 130.4, 129.7, 74.7,63.4,52.4, 12.1. MS (m/z) (M+l)t = 409.
+
+The same reaction was also performed at higher temperature (40 C to 45 C) and the reaction was completed in 4 to 6 hours . The reaction was also performed in acetonitrile or propionitrile and isolated yield of the compound in formula was increased to 90%, HPLC purity 98.79 .
+
+## Abbreviations
+
+AIBN
+
+Azobisisobutyronitrile
+
+CHBCOONa
+
+Sodium acetate
+
+CuSO4
+
+Copper (II) sulphate
+
+DIPE
+
+Diisopropyl ether
+
+DMA
+
+Dimethyl acetamide
+
+DMF
+
+Dimethyl formamide
+
+EDC
+
+Ethylene dichloride
+
+Eq.
+
+Equivalent
+
+g
+
+Gram
+
+h
+
+Hours
+
+HzO
+
+Water
+
+H2SO4
+
+Sulfuric acid
+
+HCI
+
+Hydrochloric acid
+
+HCN
+
+Hydrogen cyanide
+
+HPLC
+
+High performance liquid chromatography
+
+IPA
+
+Isopropyl alcohol
+
+Isopar-G
+
+Isoparaffinic Hydrocarbon
+
+KBr
+
+Potassium bromide
+
+KBrO3
+
+Potassium bromate
+
+Potassium chlorate
+
+KCN
+
+Potassium cyanide
+
+KzCO3
+
+Potassium carbonate
+
+Kg
+
+Kilogram
+
+KHCO;
+
+Potassium bicarbonate
+
+KHSO;
+
+Potassium bisulfite
+
+KI
+
+Potassium iodide
+
+KIO;
+
+Potassium iodate
+
+KNO2
+
+Potassium nitrite
+
+KOH
+
+Potassium hydroxide
+
+K2SO;
+
+Potassium sulfite
+
+L
+
+Litre
+
+MCB
+
+Monochlorobenzene
+
+MDC
+
+Methylene dichloride
+
+MeOH
+
+Methanol
+
+MeONHz.HCI
+
+Methoxylamine hydrochloride
+
+MIBK
+
+Methyl isobutyl ketone
+
+mL
+
+Millilitre
+
+NaBr
+
+Sodium bromide
+
+NaBrO;
+
+Sodium bromate
+
+NaClO3
+
+Sodium chlorate
+
+NaCN
+
+Sodium cyanide
+
+NazCO3
+
+Sodium carbonate
+
+NaHCO;
+
+Sodium bicarbonate
+
+NaHSO;
+
+Sodium bisulfite
+
+NaI
+
+Sodium iodide
+
+NaIO3
+
+Sodium iodate
+
+NaNO2
+
+Sodium nitrite
+
+NaOBr
+
+Sodium hypobromide
+
+NaOH
+
+Sodium hydroxide
+
+NBS
+
+N-bromo succinamide
+
+PTC
+
+Phase transfer catalyst
+
+RB. Flask
+
+Round bottom flask
+
+RM
+
+Reaction mixture
+
+rt
+
+Room temperature
+
+SOClz
+
+Thionyl chloride
+
+TBAB
+
+Tetra n-butyl ammonium bromide
+
+TBACI
+
+Tetrabutylammonium chloride
+
+TBAI
+
+Tetrabutylammonium iodide
+
+Vol
+
+Volume
+
+## ADVANTAGES OF THE PRESENT INVENTION
+
+- 1 . The intermediate (E)-2-methoxyimino-2-(o-tolyl)acetic acid (compound 5) is synthesised in a single as compared to art process, which has more number of steps. prior step;
+- The raw material of the instant invention such as o-toluidine is common starting material and easily available in large scale at commercial level. key
+- 3 In instant invention(E)-2-methoxyimino-2-(o-tolyl)acetic acid is obtained directly in an (E)-isomeric form and it is essential for further conversion into trifloxystrobin, while   comparing to other   literature   processes the   present invention is distinct and advantageous.
+- 4 In instant invention trifloxystrobin is produced lesser number of steps with 40.29 overall yield, while the literature reports many step syntheses with overall yield 199. using
+- 5. The instant invention does not require   the use of any hazardous   cyanide reagent; therefore; the said process is environment friendly and safe.
+- 6 In literature step (f) was performed at higher temperature about 120 C high boiling solvents such as DMF, DMA which are difficult to separate from The high temperature reaction causes impurity formations , which results in lower   yield of   trifloxystrobin. However, the present invention was performed by using low boiling solvents such as acetone at room temperature (20 C to 309C) to produce trifloxystrobin (889 yield) using polar
+- 7 chemical purity (98-99.59).
+
+21
+
+## We claim:
+
+- 1) An improved process for the preparation of trifloxystrobin of formula (I) ,
+
+<!-- image -->
+
+comprising the steps of:
+
+- a) obtaining a 2-methyl benzene diazonium chloride having a formula(2) by reacting 1-amino-2-methylbenzene having a formula (1) with alkali metal nitrite in presence of an acid;
+- b) obtaining a 2-methoxyimino-acetic acid having a formula (4) by reacting 2-oxoacetic acid having a formula (3) with methoxylamine hydrochloride in presence of a base in a suitable solvent or mixture of solvents thereof;
+- obtaining (E)-2-methoxyimino-2-(o-tolyl)acetic acid having à formula (5) by reacting à compound of  aforesaid   formula   (2) with à compound of aforesaid formula (4) in presence of salt of acid Or à base and à metal sulphate in a suitable solvent or mixture of solvents thereof;
+
+<!-- image -->
+
+<!-- image -->
+
+22
+
+<!-- image -->
+
+- d) obtaining (E)-2-methoxyimino-2-(o-tolyl)acetic acid methyl ester having a formula (6) by reacting a compound of aforesaid formula (5) with an acid and methanol with Or without a suitable solvent or mixture of solvents thereof;
+- obtaining (E)-2-(2-bromomethylphenyl)-2-methoxy iminoacetic acid methyl ester having a formula by reacting compound of aforesaid formula (6) with metal halogenate in presence of a base with Or without catalyst in a suitable solvent or mixture of solvents thereof;
+- obtaining trifloxystrobin formula (I) by reacting a compound of aforesaid formula (7 with a 1-(3-trifluoromethyl-phenyl)-ethanone oxime having a formula   (8) in presence of à base  and with catalyst in a suitable solvent or mixture of solvents thereof.
+
+<!-- image -->
+
+Where X =CI, Br, I
+
+<!-- image -->
+
+23
+
+<!-- image -->
+
+- 2 The process as claimed in claim 1, wherein the said formula (2) is prepared in in-situ manner.
+- 3) The process as claimed in claim 1, wherein the said alkali metal nitrite used in step (a) is   preferably selected from the group consisting of sodium nitrite, potassium nitrite; most preferably sodium nitrite.
+- 4) as   claimed in claim 1 . wherein the said acid of step (a) is preferably selected from the group consisting of hydrochloric acid, sulfuric acid; most preferably hydrochloric acid.
+- 5) The   process as claimed in claim 1, wherein the said base of step (b) is preferably selected from the group consisting of sodium hydroxide; potassium hydroxide, sodium carbonate;   potassium carbonate, potassium bicarbonate, sodium bicarbonate; most preferably sodium hydroxide or sodium carbonate.
+- The process as claimed in claim 1, wherein the said solvent used in step (b) selected from the group consisting of water, methanol, ethanol, isopropyl alcohol, butanol, isobutanol, ethylene glycol and the like or mixture of solvents thereof; most preferably water.
+- The process as claimed in claim 1, wherein the said salt of acid of step (c) is preferably selected from the group consisting of mono or di sodium, mono or di potassium salt of carboxylic acids such as acetic acid; most preferably mono or di sodium salt of carboxylic acid.
+
+- 8) The   process as claimed in claim 1 , wherein the said base   of (c) is preferably selected from hydroxide, potassium carbonate, potassium bicarbonate, sodium carbonate, sodium bicarbonate; most preferably sodium bicarbonate . step
+- 9) The process as claimed in claim 1, wherein the said metal sulfate of step (c) is copper sulfate.
+- 10) The process as claimed in claim 1, wherein the said solvent of step is preferably selected from the   group consisting of heptane; monochlorobenzene; isoparaffinic hydrocarbon or mixture of solvents thereof; most preferably heptane; Or isoparaffinic hydrocarbon.
+- 11) The   process as claimed in claim 1, wherein the said acid of step (d) is preferably selected from the group consisting of organic or inorganic acid. The acid more preferably selected from sulfuric acid, hydrochloric acid, thionyl chloride; most preferably sulfuric acid or thionyl chloride.
+- 12) The process as claimed in claim 1, wherein the said solvent of step (d) is preferably selected from the group consisting of monochlorobenzene; ethylene dichloride, dichlorobenzene or mixture of solvents thereof.
+- 13) The process as claimed in claim 1, wherein the said metal halogenate of step (e is preferably selected from the group consisting of sodium bromate, sodium chlorate; sodium iodate, potassium bromate; potassium chlorate; potassium iodate; N-bromosuccinimide; most preferably sodium bromate.
+- 14) The process  as claimed in claim 1 , wherein the said catalyst of step (e) is preferably selected from the group consisting of   sodium  bromide; potassium bromide, sodium   iodide;  potassium   iodide;  azobisisobutyronitrile Or mixture thereof; most preferably azobisisobutyronitrile.
+
+- 15) The   process as  claimed in claim 1. wherein the said base of step (e) is preferably selected   from the bisulfite, sodium hydroxide;   potassium   hydroxide; most preferably sodium bisulfite .
+- 1 , wherein the said solvent of step (e) in combination with water is   preferably selected from the group   consisting of ethylene dichloride, dichloromethane, chloroform, monochlorobenzene, preferably ethylene dichloride.
+- 17) The   process as claimed in claim 1, wherein the said base of step is preferably selected from the group consisting of sodium hydroxide; potassium hydroxide, potassium carbonate;  sodium carbonate; most   preferably   potassium carbonate.
+- 18) The process as claimed in claim 1, wherein the said transfer catalyst of step (f) is preferably selected from the group consisting of tetra-n-butylammonium bromide;   tetrabutylammonium iodide;  tetrabutylammonium chloride, sodium iodide, potassium iodide; most preferably tetra-n-butylammonium bromide. phase
+- 19) The process as claimed in claim wherein the said solvent of step (f) is preferably selected from the group consisting of acetone, methyl ethyl ketone; methyl isobutyl ketone, xylene, toluene, monochlorobenzene;   propionitrile; acetonitrile or mixture of solvents thereof; most preferably acetone.
+- 20) The process as claimed in claim 1, wherein one or all the steps are performed in in-situ manner .
+
+## INTERNATIONAL SEARCH REPORT
+
+Delhi-110075
+
+X"
+
+- considered to involve ar inventive step when the obvious to &amp;amp; person skilled in the art being
+
+Date of mailing of the international search report
+
+22-11-2018
+
+Authorized officer
+
+Ravi
+
+Telephone No. +91-1125300200
+
+International application No\_
+
+PCI /IN2018/050560
+
+## CLASSIFICATION OF SUBJECT MATTER C07D213/53 Version=2018 01
+
+According to Internationai Patent Classification (IPC) Or to both national classification and IPC
+
+## B FIELDS SEARCHED
+
+CO7D
+
+Electronic data base consulted the international search during base
+
+## IPO Internal Database, STN database
+
+## DOCUMENTS CONSIDERED T0 BE RELEVANT
+
+| Category*   | appropriate; of the relevant passages                                                                                        |      |
+|-------------|------------------------------------------------------------------------------------------------------------------------------|------|
+|             | Chai Bing et al, Synthesis of trifloxystrobin" Nongyao (2013) 52 ( 4 )  258-259 , 262 ISSN: 1006-0413 whole document         | 1-20 |
+|             | US6670496 B1 (BAYER AG , 30 DECEMBER, 2003) whole document s ; particularly claims 1-16; examples                            | 1-20 |
+|             | Wo2013144924 Al (RALLIS INDIA LID, 03 OCTOBER, 2013) whole documents; particularly claims 1-16; examples 6 , 8 ; scheme I-IV | 1-20 |
+
+Further documents æe Jisted in the continuation of Box €.
+
+See patent family annex
+
+<!-- image -->
+
+- Speciai categories of cited documents:
+- E" earlier application or patent but published on or after the international daie {iling
+- A document defining the general state of the art which is not considered to be of particular relevance
+- document which may throw doubts on priority claimís) or which is spœcial reason {as specified)
+- "0" an oral disclosure use exhibition
+- the priority date claimned filiug
+
+Date of the actual completion of the intemational search
+
+22-11-2018
+
+mailing address of the ISA/
+
+Indian
+
+Patent
+
+Office
+
+Plot
+
+No . 32 ,
+
+Sector
+
+Facsimile No
+
+14 , Dwarka, New
+
+- date or priority application but ciied to understana the principle or theovy underlying the invention
+
+Inforniation on patent fanily members
+
+International application No.
+
+PCT IN2018/050560
+
+| Citation      | Pub Date   | Family   | Family             | Family   | Pub Date                         |
+|---------------|------------|----------|--------------------|----------|----------------------------------|
+| US 6670496 Bl |            | WO EP    | 2000063162 1173410 | Al       | 26-10-2000 22-10-2003 20-02-2008 |
+|               | 30-12-2003 | JP CN    | 4049536 1158247    | Bl B2 C  | 21-07-2004                       |
